@@ -3,7 +3,7 @@ spring:
     url: jdbc:h2:mem:testdb
     driver-class-name: org.h2.Driver
     username: sa
-    password: "{cipher}243096af7d1594cd31a849f9630f78b61144ee651992d5ad340bb67aeef5896c"
+    password: '{cipher}AQAy0jsevuz9J/5LHNvmBVEYRhqzLM/ofm4y3MQ8tNYT1Uqxje0THEy6eT5LBX1MlQWMLLwSrmCJTG0bIIbSy1wHzjk4SkdxR/wmJyk63PRsC+P8BW37dDdpE39eYQpbAT73Hb4Z4xx7+vRavqQxPX2g+gK6KUBtBfnGvi/nwCxuIhyXhy436m8ABxUBW+nEQ+p6PYtGe5898FZnLhFgOA84RTWgdKmXimcHW3QpZK+ZueV1MHao/Z9xNlV/TkcNiybXYhGLWPd4fjt1Fdpr5QfqAAgkwJT0QA6b1pOAhUgpHXdMItE/djZcbH5f9EAfplAejAkboNA1gGI1UG4SagEuOLrbfSiWvPlFc6lmh4uomEO06V/S2ej8w8xt/MB/6Jc='
   h2:
     console:
       enabled: true
