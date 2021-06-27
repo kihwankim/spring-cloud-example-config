@@ -10,9 +10,5 @@ spring:
       settings:
         web-allow-others: true
 
-token:
-  expiration-time: 86400000 # 하루
-  secret: user_token_native_user_service_dev
-
 gateway:
   ip: 127.0.0.1

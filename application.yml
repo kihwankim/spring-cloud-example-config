@@ -1,0 +1,3 @@
+token:
+  expiration-time: 86400000 # 하루
+  secret: user_token_native_user_service
